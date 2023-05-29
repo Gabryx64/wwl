@@ -1,0 +1,6 @@
+*.sfc
+*.pal
+*.pic
+*.obj
+linkfile
+*.sym

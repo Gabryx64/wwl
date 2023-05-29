@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/opt/pvsneslib/devkitsnes/bin/816-tcc",
+      "-c",
+      "-Wall",
+      "-I/opt/pvsneslib/pvsneslib/include/",
+      "-I/opt/pvsneslib/devkitsnes/include/",
+      "-Iinclude/",
+      "src/main.c"
+    ],
+    "directory": "/home/gabry/Programming/c-c++/wwl",
+    "file": "/home/gabry/Programming/c-c++/wwl/src/main.c"
+  }
+]
